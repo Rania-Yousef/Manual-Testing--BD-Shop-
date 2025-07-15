@@ -41,3 +41,11 @@ This project documents manual test cases and execution results for the **BD Shop
 - The project follows standard QA practices for documentation and execution reporting.
 
 ---
+## 📬 Contact Information
+
+If you have any questions or would like to connect, feel free to reach out:
+
+- 👩‍💻 **Name:** Rania Marzooq Yassen Yousef  
+- 📧 **Email:** raniayousef469@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/rania-yousef](https://www.linkedin.com/in/rania-yousef-4a31b3353/)   
+- 📍 **Location:** Jordan  
